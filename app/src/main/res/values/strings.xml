@@ -1,0 +1,10 @@
+<resources>
+    <!-- Layout strings -->
+    <string name="app_name">Window3d</string>
+    <string name="main_textView_distance_value">0</string>
+    <string name="main_btn_calibrate_label">Calibrate</string>
+
+    <!-- In-app strings -->
+    <string name="permissions_request_message">Please accept the following permissions.</string>
+    <string name="permissions_denied_message">The app cannot work without your permission. Please go to your App settings to set the permissions.</string>
+</resources>
